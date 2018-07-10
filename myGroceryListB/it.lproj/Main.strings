@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Date created"; ObjectID = "6L1-02-eMn"; */
+"6L1-02-eMn.text" = "Data di creazione";
+
+/* Class = "UITabBarItem"; title = "My List"; ObjectID = "7N7-hy-8hA"; */
+"7N7-hy-8hA.title" = "La mia lista";
+
+/* Class = "UILabel"; text = "Quantity"; ObjectID = "Av1-s5-75R"; */
+"Av1-s5-75R.text" = "Quantità";
+
+/* Class = "UITableViewSection"; footerTitle = "this section allows to setup filters"; ObjectID = "Bic-kt-6jY"; */
+"Bic-kt-6jY.footerTitle" = "in questa sezione si impostano i filtri";
+
+/* Class = "UITableViewSection"; headerTitle = "display filters"; ObjectID = "Bic-kt-6jY"; */
+"Bic-kt-6jY.headerTitle" = "Mostra filtri";
+
+/* Class = "UIButton"; normalTitle = "Show more settings"; ObjectID = "IeH-lL-3aP"; */
+"IeH-lL-3aP.normalTitle" = "Mostra più impostazioni";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kef-uT-TnW"; */
+"Kef-uT-TnW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "SQg-F2-D6H"; */
+"SQg-F2-D6H.text" = "Label";
+
+/* Class = "UILabel"; text = "Show preferred items"; ObjectID = "YrN-2q-crW"; */
+"YrN-2q-crW.text" = "Mostra elementi preferiti";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jaP-Du-OfQ"; */
+"jaP-Du-OfQ.text" = "Label";
+
+/* Class = "UITableViewSection"; footerTitle = "this section allows to setup filters"; ObjectID = "k1O-0u-8gC"; */
+"k1O-0u-8gC.footerTitle" = "in questa sezione si impostano i filtri";
+
+/* Class = "UITableViewSection"; headerTitle = "CONstraints"; ObjectID = "k1O-0u-8gC"; */
+"k1O-0u-8gC.headerTitle" = "Vincoli";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "keE-jD-91h"; */
+"keE-jD-91h.title" = "Impostazioni";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "oj7-wu-SsP"; */
+"oj7-wu-SsP.text" = "Label";
+
+/* Class = "UILabel"; text = "Description"; ObjectID = "sGh-V7-RT0"; */
+"sGh-V7-RT0.text" = "Descrizione";
+
+/* Class = "UINavigationItem"; title = "myGroceryList"; ObjectID = "vPY-4u-iQ5"; */
+"vPY-4u-iQ5.title" = "listaDellaSpesa";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "yw3-hJ-RRw"; */
+"yw3-hJ-RRw.text" = "Nome";
